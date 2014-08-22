@@ -1,0 +1,2 @@
+Script to retrieve xml file with urls.
+Each url retrieved will be visited to force it to be in cache.
